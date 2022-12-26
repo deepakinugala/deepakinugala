@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deepakinugala
 - 👀 I’m interested in Site Reliability Engineering
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Python, Go
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Python, Go, DevOps, SRE Engineering, Linux.
+- 📫 How to reach me ... My GitHub Chat https://github.com/deepakinugala
 
 <!---
 deepakinugala/deepakinugala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
